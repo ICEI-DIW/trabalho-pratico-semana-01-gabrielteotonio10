@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Gabriel Teotônio de Castro Coelho Costa
+Matricula: 885732
 
 ## Tela de inspeção com navegador
-
-
+Abaixo está um print mostrando os arquivos carregados ao acessar um site:
+![imagem do navegador](imagens/navegador.png)
 ## Tela de projeto no Replit
-
+![imagem do Rwplit](imagens/replit.png)
